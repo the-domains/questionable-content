@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[questionable content]]></title>
         <description><![CDATA[questionable content]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/questionable-content/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:02:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 11:04:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/questionable-content/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a301144d-e097-4953-afc9-bedeca047785.jpg">]]></description>
+            <link>https://thegrid.ai/questionable-content/f5a59c9b-4d40-4db5-a77e-1b84d3dd359b/index.html</link>
+            <guid isPermaLink="false">f5a59c9b-4d40-4db5-a77e-1b84d3dd359b</guid>
+            <pubDate>Fri, 08 Jan 2016 11:04:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[intro. sort of.]]></title>
-            <description><![CDATA[<article><h1>intro. sort of.</h1><p>this is just to try out the grid. in the following posts, there may be porn pictures mainly.l have fun!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d846d0-3339-45b0-96d4-6ba1fa041764.jpg"></article>]]></description>
-            <link>undefinedintro-sort-of/index.html</link>
+            <description><![CDATA[<article><h1>intro. sort of.</h1><p>this is just to try out the grid. in the following posts, there may be porn pictures mainly.l have fun!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/309c6f739c6ffe742b297f6f062d964460e92cf5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/questionable-content/intro-sort-of/index.html</link>
             <guid isPermaLink="false">5fd17a7a-00d0-4dfd-9869-1f1db4302a7f</guid>
             <pubDate>Fri, 08 Jan 2016 11:02:56 GMT</pubDate>
         </item>
